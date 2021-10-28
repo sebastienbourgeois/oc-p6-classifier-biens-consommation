@@ -2,3 +2,8 @@
 #  Jupyter notebook checkpoints  #
 ##################################
 .ipynb_checkpoints/
+
+##################################
+#     Images parmi les data      #
+##################################
+data/Images/
